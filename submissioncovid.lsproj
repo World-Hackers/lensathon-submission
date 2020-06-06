@@ -1,12 +1,12 @@
 {
-    "lens_id": "",
+    "lens_id": "1c686c72-204c-47e4-aaba-f167d364f8a2",
     "document_id": "FF1lVCxLwuDlE9aEppjA",
     "original_document_id": "9Bn53NCCL6iXs-X0Ico_",
     "version": "23",
-    "lastChanged": "1591453738056",
+    "lastChanged": "1591464952233",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
-    "videoPreviewUpdateTime": "",
+    "videoPreviewUpdateTime": "2020-06-06T16:29:53.490Z",
     "isReadOnly": "false",
     "isAutoSaved": "true",
     "studioVersion": {
@@ -1111,7 +1111,6 @@
                     "1591045236510967:120349",
                     "1591254222659231:61237",
                     "1591299610193386:456970",
-                    "1591299638630886:457103",
                     "1591302191181109:749210",
                     "1591302246865891:749224",
                     "1591303571491496:790424",
@@ -3135,7 +3134,7 @@
                         {
                             "k": "1591030527547049:25153",
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "false",
                                 "basicModeSetup": {
                                     "fixWidth": "false",
                                     "fixHeight": "false",
@@ -10982,7 +10981,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1591030551061534:32675"
+                    "1591045236510967:120349"
                 ]
             }
         },
